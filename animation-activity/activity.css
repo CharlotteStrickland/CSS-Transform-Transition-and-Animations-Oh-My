@@ -41,7 +41,7 @@ nav {
     transform: rotate(0deg);
   }
   to {
-    transform: remove;
+    transform: disappear;
   }
 
 @keyframes bottom {
